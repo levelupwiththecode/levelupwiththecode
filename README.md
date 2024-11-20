@@ -2,7 +2,9 @@
 
 # 👋 Bienvenue sur mon GitHub !
 
-Je m'appelle Massidé et je suis une développeuse spécialisée en développement iOS. 🎨📱
+Je m'appelle Massidé et je suis une développeuse junior spécialisée en développement iOS. 🎨📱
+
+Je suis à la recherche d'une alternance de 12 mois à compter de janvier 2025, sur le rythme de 3 semaines en entreprise et une semaine en formation.
 
 ## 🌟 Mes app disponible sur l'App Store!
 - 🇨🇮🇳🇬🇫🇷 **[FlagMaster](https://apps.apple.com/fr/app/flagmaster-geo-quizz/id6738355371?l=en-GB)** : Une app de quizz de style Trivia pour améliorer sa géographie.
